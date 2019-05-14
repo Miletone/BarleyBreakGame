@@ -1,0 +1,12 @@
+C:\Users\Milestone\source\repos\BarleyBreakGame\BarleyBreakGame\bin\Debug\BarleyBreakGame.exe.config
+C:\Users\Milestone\source\repos\BarleyBreakGame\BarleyBreakGame\bin\Debug\BarleyBreakGame.exe
+C:\Users\Milestone\source\repos\BarleyBreakGame\BarleyBreakGame\bin\Debug\BarleyBreakGame.pdb
+C:\Users\Milestone\source\repos\BarleyBreakGame\BarleyBreakGame\obj\Debug\BarleyBreakGame.csprojAssemblyReference.cache
+C:\Users\Milestone\source\repos\BarleyBreakGame\BarleyBreakGame\obj\Debug\BarleyBreakGame.MainForm.resources
+C:\Users\Milestone\source\repos\BarleyBreakGame\BarleyBreakGame\obj\Debug\BarleyBreakGame.Properties.Resources.resources
+C:\Users\Milestone\source\repos\BarleyBreakGame\BarleyBreakGame\obj\Debug\BarleyBreakGame.csproj.GenerateResource.cache
+C:\Users\Milestone\source\repos\BarleyBreakGame\BarleyBreakGame\obj\Debug\BarleyBreakGame.csproj.CoreCompileInputs.cache
+C:\Users\Milestone\source\repos\BarleyBreakGame\BarleyBreakGame\obj\Debug\BarleyBreakGame.exe
+C:\Users\Milestone\source\repos\BarleyBreakGame\BarleyBreakGame\obj\Debug\BarleyBreakGame.pdb
+C:\Users\Milestone\source\repos\BarleyBreakGame\BarleyBreakGame\obj\Debug\BarleyBreakGame.RecordsTableForm.resources
+C:\Users\Milestone\source\repos\BarleyBreakGame\BarleyBreakGame\obj\Debug\BarleyBreakGame.FinishForm.resources
